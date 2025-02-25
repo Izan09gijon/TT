@@ -373,7 +373,7 @@ width: 80%;
 
     }
     .navbar{
-        display: none;
+        display: block;
 
     }
 
