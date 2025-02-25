@@ -374,6 +374,7 @@ width: 80%;
     }
     .navbar{
         display: block;
+        top:100px;
 
     }
 
