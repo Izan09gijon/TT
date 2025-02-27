@@ -299,7 +299,7 @@ width: 80%;
     
 }
 .odstxt{
-    position: fixed;
+    position: relative;
     left: 0px;
     top: 310px;
     margin-left:50px;
