@@ -291,8 +291,8 @@ width: 80%;
     
 }
 .ods{
-    left: 200px;
-    top:230px;
+    left: 0px;
+    top:270px;
     z-index: -1;
     position: relative;
     border-radius: 5%;
