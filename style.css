@@ -311,7 +311,7 @@ width: 80%;
 .video{
     color: #171717;
     position: relative;
-    transform: scale(0.5);
+    transform: scale(0.25);
     top: 0%;
     left: 5%;
     z-index: -2;
